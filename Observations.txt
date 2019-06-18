@@ -1,0 +1,5 @@
+Data trends observed from the Pymoli dataset.
+#1 - From the data (gender demographics), men make up most of the population of people that buy video games
+#2 - From the puchasing analysis, men pay significantly more on video games then any other gender category
+#3 - From the purchasing analysis, people spend less then $5 per game
+#4 - From age demographics, the majority of people that play video games range between 20-24 years old.
